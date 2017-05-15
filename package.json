@@ -1,0 +1,27 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "HelloNode app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http//github.com/le-yo/hellonode.git"
+  },
+  "keywords": [
+    "Hello",
+    "NodeJs",
+    "MongoDb",
+    "Express",
+    "CommonJs"
+  ],
+  "author": "Le-yo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.9"
+  }
+}
